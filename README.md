@@ -9,7 +9,7 @@ El objetivo es analizar el comportamiento de los clientes dentro de un programa 
 ```
 📦 bda-modulo-3-evaluacion-final-juliabeco/
 ├── README.md                  # Documentación del proyecto
-├── evaluacionM3.ipynb  # Notebook principal
+├── evaluacionM3.ipynb         # Notebook principal
 └── resources/
     ├── Customer_Flight_Activity.csv
     ├── Customer_Loyalty_History.csv
@@ -86,7 +86,7 @@ Se respondieron las siguientes preguntas con **matplotlib y seaborn**:
 2. Instalar dependencias necesarias (pandas, matplotlib, seaborn, scipy).  
 3. Abrir y ejecutar el notebook:  
    ```bash
-   jupyter notebook evaluacionM3.ipynb
+   evaluacionM3.ipynb
 ---
 
 
